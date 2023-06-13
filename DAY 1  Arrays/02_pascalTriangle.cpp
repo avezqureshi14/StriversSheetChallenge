@@ -1,6 +1,7 @@
 #include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
+// if u will subtract one it will have 1 based indexing
 int nCr(int n, int r)
 {
     n = n - 1;
